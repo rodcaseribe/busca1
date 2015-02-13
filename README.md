@@ -1,2 +1,2 @@
 # busca1
-search bing
+search bing,google
