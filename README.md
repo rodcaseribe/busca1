@@ -1,2 +1,1 @@
-# busca1
-search bing,google
+# Motor de Buscas com python com beautyful e mechanise
